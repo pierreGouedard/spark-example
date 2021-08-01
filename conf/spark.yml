@@ -1,0 +1,7 @@
+spark.worker.cleanup.appDataTtl: True
+spark.executor.memory: 1g
+spark.python.worker.memory: 512m
+spark.submit.pyFiles: ""
+
+# Env variable if any
+#spark.executorEnv.[EnvironmentVariableName]

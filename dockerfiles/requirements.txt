@@ -1,0 +1,9 @@
+pandas==1.1.5
+pyaml==20.3.1
+python-docx==0.8.10
+python-pptx==0.6.18
+torch==1.7.1
+transformers==3.5.1
+scikit-learn==0.24.1
+psycopg2==2.8.4
+spacy==3.0.6
